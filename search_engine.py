@@ -17,11 +17,6 @@ and <a href="http://udacity.com/cs101x/urank/zinc.html">Zinc Chef</a>.
 </body>
 </html>
 
-
-
-
-
-
 """,
    'http://udacity.com/cs101x/urank/zinc.html': """<html>
 <body>
@@ -37,11 +32,6 @@ For great hummus, try
 </body>
 </html>
 
-
-
-
-
-
 """,
    'http://udacity.com/cs101x/urank/nickel.html': """<html>
 <body>
@@ -54,11 +44,6 @@ best Hummus recipe!
 
 </body>
 </html>
-
-
-
-
-
 
 """,
    'http://udacity.com/cs101x/urank/kathleen.html': """<html>
@@ -110,9 +95,6 @@ Hummus Recipe
 
 </body>
 </html>
-
-
-
 
 """,
 }
